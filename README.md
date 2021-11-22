@@ -1,9 +1,27 @@
-# Some Useful Machine Learning Literature and Tools
+# Some Useful Deep Learning Literature and Tools
 
 ## Deep Learning Fundamentals
+
 ### General Knowledge
-* One of the most comprehensive books on **Deep Learning**, available for free: [Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press, 2016.](https://www.deeplearningbook.org/)
-* [Neural Networks for Pattern Recognition, Christopher M. Bishop](https://dl.acm.org/doi/10.5555/525960)
+* Books
+  * [Ian Goodfellow, Yoshua Bengio, and Aaron Courville. Deep Learning. MIT Press, 2016.](https://www.deeplearningbook.org/) (One of the most comprehensive books on **Deep Learning**, available for free)
+  * [Neural Networks for Pattern Recognition, Christopher M. Bishop](https://dl.acm.org/doi/10.5555/525960)
+* Blogs
+  * [Back-Propagation](https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
+
+### Hyper-Parameters & Tuning
+* Optimization Techniques
+  * Blogs
+    * [Hyperparameter Tuning in Keras](https://medium.com/swlh/hyperparameter-tuning-in-keras-tensorflow-2-with-keras-tuner-randomsearch-hyperband-3e212647778f)
+    * [Hyperparameter tuning with Keras Tuner](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
+  * Papers
+    * [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533v2)
+    * [Hyperparameter Optimization for Machine Learning Models Based on Bayesian Optimization](https://www.sciencedirect.com/science/article/pii/S1674862X19300047)
+    * [Optimizing Artificial Neural Network Hyperparameters and Architecture](https://www.mn.uio.no/fysikk/english/people/aca/ivarth/works/in9400_nn_hpo_nas_hovden_r2.pdf)
+
+* Choosing Activation Functions
+  * Papers
+    * [Activation Functions: Comparison of Trends in Practice and Research for Deep Learning](https://arxiv.org/abs/1811.03378)
 
 ## Image Processing
 
